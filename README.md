@@ -1,2 +1,3 @@
-# AoC2022
+# https://adventofcode.com/2022
+
 En python, je vais essayer de le faire jusqu'au bout...
